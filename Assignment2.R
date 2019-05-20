@@ -1,4 +1,4 @@
-#Wendong Xie
+#Wendong Xie Data
 makeCacheMatrix <- function(x = matrix()) {
     inv <- NULL
     set <- function(y) {
